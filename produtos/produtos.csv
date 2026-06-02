@@ -1,1 +1,4 @@
-
+id_cliente	cliente	produto	valor	data_mov
+1	Filipe	CDB	1000	01/06/2026
+2	Ana	FII	2500	01/06/2026
+3	Pedro	Tesouro	5000	01/06/2026
